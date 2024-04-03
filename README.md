@@ -18,20 +18,20 @@ Database Used : MySQL Workbench**
 
 ## Output Screenshot : 
 
-**Home Page**
+### Home Page
 ![Screenshot (442)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/b28158da-c2f5-4aa3-bfa1-bac5b8024708)
 
-**Login Page**
+### Login Page
 ![Screenshot (443)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/e4ed070f-f07d-47d5-80c3-b2cb9f9d7953)
 
-**Dashboard**
+### Dashboard
 ![Screenshot (444)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/6a2413d9-f986-4ec5-9103-3c9f1431d681)
 
-**Add Employee**
+### Add Employee
 ![Screenshot (445)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/b485590c-810b-4a6b-9cfe-5b27378b9d44)
 
-**View Employee**
+### View Employee
 ![Screenshot (449)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/b244230d-98d4-4795-98eb-9fe705846ef9)
 
-**Remove Employee**
+### Remove Employee
 ![Screenshot (450)](https://github.com/prajwalchapke055/Task-4-Employee-Management-System/assets/122814333/1563c0f1-677d-4845-8550-64a85a845b34)

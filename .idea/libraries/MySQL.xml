@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MySQL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/MySQL/JAR File/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/MySQL/JAR File/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/MySQL/JAR File/ResultSet2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/MySQL/JAR File/ResultSet2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
